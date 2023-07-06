@@ -2,4 +2,4 @@
 
 Recipe application with custom recipe uploads.
 
-App build with HTML/CSS and JavaScript
+App build with HTML/CSS/SCSS and JavaScript
